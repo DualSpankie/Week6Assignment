@@ -1,0 +1,15 @@
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\bin\Debug\net6.0\Week6Assignment1.exe
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\bin\Debug\net6.0\Week6Assignment1.deps.json
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\bin\Debug\net6.0\Week6Assignment1.runtimeconfig.json
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\bin\Debug\net6.0\Week6Assignment1.dll
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\bin\Debug\net6.0\ref\Week6Assignment1.dll
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\bin\Debug\net6.0\Week6Assignment1.pdb
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.csproj.AssemblyReference.cache
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.AssemblyInfoInputs.cache
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.AssemblyInfo.cs
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.dll
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\ref\Week6Assignment1.dll
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.pdb
+C:\Users\thebe\Documents\GitHub\Week6Assignment1\obj\Debug\net6.0\Week6Assignment1.genruntimeconfig.cache

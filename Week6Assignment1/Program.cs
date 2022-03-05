@@ -78,21 +78,21 @@ namespace BenWeek6Assignment1
                 {
                     Console.WriteLine("Please enter in a sentence or enter okay."); //Console displays text on to enter in a sentence or enter okay.
 
-                    userInput = Console.ReadLine();
+                    userInput = Console.ReadLine(); //User inputs the sentence to the console.
 
-                    int letter = 0;
+                    int letter = 0; //int letter set to 0.
 
-                    string convert;
+                    string convert; //String name convert.
 
-                    convert = letter.ToString();
+                    convert = letter.ToString(); //Converts int letter to string
 
-                    string[] pieces = userInput.Split(' ');
+                    string[] pieces = userInput.Split(' '); 
 
-                    if (int.TryParse(userInput, out convert))
+                    if (int.TryParse(userInput, out convert)) 
                     {
                         if (properties.ContainsKey(convert))
                         {
-                            properties[convert] += 1;
+                            properties[convert] += 1; //Will add one to counter
                         }
                         else
                         {
@@ -100,7 +100,7 @@ namespace BenWeek6Assignment1
                         }
                     }
 
-                } while (userInput != "okay");
+                } while (userInput != "okay"); //The user presses okay, the loop will end,. 
 
                 foreach(KeyValuePair<string, int> kvp in properties)
                 {
